@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
     "bootstrap": "^4.5.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "newrelic": "^6.11.0",
     "nodemon": "^2.0.4"
   }
 }
