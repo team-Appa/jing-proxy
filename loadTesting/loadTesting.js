@@ -11,6 +11,6 @@ export let options = {
 };
 
 export default function () {
-  var rand = Math.floor(Math.random() * 9999999);
-  let responses = http.get(`http://localhost:3010/?id=${rand}`);
+  var rand = Math.floor(Math.random() * 10) + 9999000;
+  let responses = http.get(`http://3.221.150.39/?id=${rand}`);
 }
