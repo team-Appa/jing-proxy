@@ -26,4 +26,4 @@ export default function () {
 
 ### - 50 max vus:
 
-<img src="https://drive.google.com/file/d/1xkD3mHWumZlYbXqxlj3CdcIZHJ_ioKt_/view?usp=sharing" />
+![k6 cloud testing deployed proxy](https://user-images.githubusercontent.com/46823503/88426936-a0e08780-cdb7-11ea-991c-14cd0f5ea00f.jpg)
