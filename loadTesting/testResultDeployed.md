@@ -26,4 +26,4 @@ export default function () {
 
 ### - 50 max vus:
 
-![K6 Report](https://drive.google.com/file/d/1xkD3mHWumZlYbXqxlj3CdcIZHJ_ioKt_/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1xkD3mHWumZlYbXqxlj3CdcIZHJ_ioKt_/view?usp=sharing" />
