@@ -1,7 +1,7 @@
 # Katar-a Center
 
 Web application for guitar shopping.
-This is the customer reviews module in this project
+This is the proxy that comibined four micro service module.
 
 ## Usage
 
